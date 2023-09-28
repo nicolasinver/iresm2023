@@ -1,0 +1,3 @@
+-  Pagar con tarjeta credito (Se debe cobrar 10% mas)
+    -  Pagar con tarjeta debito
+    -  Pagar con efectivo (Se debe cobrar 10% menos)
